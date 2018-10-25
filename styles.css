@@ -1,0 +1,26 @@
+h1 {font-family: Sawarabi Mincho, sans-serif;
+        text-align: center;
+            color:white;}
+h2 {color:white;
+        font-family:Sawarabi Mincho, sans-serif;
+}
+
+p {color:white;
+    font-size: 40px;
+        font-family:Sawarabi Mincho, sans-serif;
+}
+
+li{color:white;
+    font-size:25px;
+        font-family:Sawarabi Mincho, sans-serif;
+}
+
+span {color: #4169e1;
+        font-family:Sawarabi Mincho, sans-serif;
+}
+
+html{background-color: black;}
+body {
+   background-image: url("https://images.pexels.com/photos/1308624/pexels-photo-1308624.jpeg?auto=compress&cs=tinysrgb&h=350");
+   background-color: #cccccc;
+}
